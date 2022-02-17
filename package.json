@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "bootstrap": "^4.5.3",
+    "@okta/okta-auth-js": "^4.8.0",
+    "@okta/okta-vue": "^3.1.0",
+    "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2"
   }
 }
